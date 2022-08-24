@@ -3,7 +3,6 @@
 
 Deploy-Heroku-BasicSecurity -> https://cka-ta27-ex3.herokuapp.com
 
-Deploy-Heroku-JWT -> https://cka-ta27-ex3-jwt.herokuapp.com
 
 ```
 Productos
