@@ -3,7 +3,7 @@
 
 Deploy-Heroku-BasicSecurity -> https://cka-ta27-ex3.herokuapp.com
 
-Deploy-Heroku-JWT -> https://cka-ta27-ex3-jwt.herokuapp.com
+Deploy-Heroku-JWT -> https://cka-ta27-ex3jwt.herokuapp.com
 
 ```
 Productos
@@ -35,3 +35,6 @@ PUT       /api/ventas/{id}
 DELETE    /api/ventas/{id}
 
 ```
+
+![Spring2](https://user-images.githubusercontent.com/55434881/186718931-2024b357-6b4b-4545-9c58-9d68339c032f.JPG)
+
